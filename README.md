@@ -1,5 +1,5 @@
 # ⚽ WC2026 Final: Pass Network Analysis
-### Spain vs Argentina | July 19, 2026 | Argentina wins
+### Spain vs Argentina | July 19, 2026 | Spain wins
 
 A Social Network Analysis of the 2026 FIFA World Cup final, built from raw match event data. Each team's passing behavior is modeled as a directed weighted graph where nodes are players positioned at their real average pitch coordinates, and edges represent completed passes weighted by frequency. The analysis covers centrality measures, temporal evolution across match phases, Louvain community detection, and directed triangle detection (A → B → C → A passing patterns).
 
