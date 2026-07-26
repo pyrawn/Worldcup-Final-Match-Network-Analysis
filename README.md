@@ -146,7 +146,7 @@ All outputs are saved automatically to `data/clean/` and `pics/`
 
 ## Acknowledgements
 
-I would like to express my gratitude to my coordinator and professor **Didier Omar Gamboa Angulo** for the time and knowledge shared throughout the Social Networks Analysis course, as well as to his teaching assistant **José Francisco Pérez Alcocer** for providing valuable insight into football strategy and tactics. I also extend my appreciation to **PhD. Soledad Pech Couoh**, my Unsupervised Learning professor, whose lectures on clustering methods directly informed the community detection approach applied in this project. Finally, I would like to thank my sister **Belinda De Aquino Castellanos** for teaching me everything I know about football and for sparking my appreciation for the strategic depth of the game, particularly in one of my favorite national teams: Spain.
+I would like to express my gratitude to my coordinator and professor **Didier Omar Gamboa Angulo** for the time and knowledge shared throughout the Social Networks Analysis course, as well as to his teaching assistant **PhD. José Francisco Pérez Alcocer** for providing valuable insight into football strategy and tactics. I also extend my appreciation to **PhD. Soledad Pech Couoh**, my Unsupervised Learning professor, whose lectures on clustering methods directly informed the community detection approach applied in this project. Finally, I would like to thank my sister **Belinda De Aquino Castellanos** for teaching me everything I know about football and for sparking my appreciation for the strategic depth of the game, particularly in one of my favorite national teams: Spain.
 
 ---
 
